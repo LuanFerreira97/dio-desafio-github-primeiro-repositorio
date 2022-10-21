@@ -1,4 +1,4 @@
-#Link para download do Git: https://git-scm.com/downloads
+#Link para download do Git: https://git-scm.com/downloads#
 O Git Bash é um terminal extendido para otimizar o uso do Git.
 
 #Como criar um projeto novo:
@@ -9,7 +9,7 @@ O Git Bash é um terminal extendido para otimizar o uso do Git.
 - Escrever dentro dele Olá, nesse projeto você aprenderá alguns comandos do Git
 - Salva o arquivo
 
-#Agora então é hora de usarmos o Git
+#Agora então é hora de usarmos o Git#
 
 - Abre o Git Bash que foi instalado na máquina (pode ser pelo terminal do VSCode mesmo)
 - git init para inicializar o repositório
@@ -23,7 +23,7 @@ Esse add é necessário antes de darmos o commit de fato, mas por que isso? No fin
 - git commit -m "primeiro commit" para de fato dar o commit no repositório
 - git branch -M "main" para alterar o nome da branch principal de master para main (isso é uma boa prática atualmente recomendada)
 
-#Repositório no Github: 
+#Repositório no Github:# 
 
 - Depois de você ter criado a sua conta na plataforma, você irá em Criar novo repositório
 Você vai preencher com as informações do projeto, então dar o nome do repositório, colocar uma breve descrição e criar
